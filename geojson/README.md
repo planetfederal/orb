@@ -1,8 +1,8 @@
-orb/geojson [![Godoc Reference](https://godoc.org/github.com/paulmach/orb/geojson?status.svg)](https://godoc.org/github.com/paulmach/orb/geojson)
+orb/geojson [![Godoc Reference](https://godoc.org/github.com/planetfederal/orb/geojson?status.svg)](https://godoc.org/github.com/planetfederal/orb/geojson)
 ===========
 
 This package **encodes and decodes** [GeoJSON](http://geojson.org/) into Go structs
-using the geometries in the [orb](https://github.com/paulmach/orb) package.
+using the geometries in the [orb](https://github.com/planetfederal/orb) package.
 Supports both the [json.Marshaler](http://golang.org/pkg/encoding/json/#Marshaler) and
 [json.Unmarshaler](http://golang.org/pkg/encoding/json/#Unmarshaler) interfaces.
 The package also provides helper functions such as `UnmarshalFeatureCollection` and `UnmarshalFeature`.

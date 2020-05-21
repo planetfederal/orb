@@ -3,7 +3,7 @@ package project
 import (
 	"testing"
 
-	"github.com/paulmach/orb"
+	"github.com/planetfederal/orb"
 )
 
 func TestGeometry(t *testing.T) {

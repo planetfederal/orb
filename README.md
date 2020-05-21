@@ -1,4 +1,4 @@
-orb [![Build Status](https://travis-ci.org/paulmach/orb.svg?branch=master)](https://travis-ci.org/paulmach/orb) [![Coverage Status](https://coveralls.io/repos/github/paulmach/orb/badge.svg?branch=master)](https://coveralls.io/github/paulmach/orb?branch=master) [![Go Report Card](https://goreportcard.com/badge/github.com/paulmach/orb)](https://goreportcard.com/report/github.com/paulmach/orb) [![Godoc Reference](https://godoc.org/github.com/paulmach/orb?status.svg)](https://godoc.org/github.com/paulmach/orb)
+orb [![Build Status](https://travis-ci.org/paulmach/orb.svg?branch=master)](https://travis-ci.org/paulmach/orb) [![Coverage Status](https://coveralls.io/repos/github/paulmach/orb/badge.svg?branch=master)](https://coveralls.io/github/paulmach/orb?branch=master) [![Go Report Card](https://goreportcard.com/badge/github.com/planetfederal/orb)](https://goreportcard.com/report/github.com/planetfederal/orb) [![Godoc Reference](https://godoc.org/github.com/planetfederal/orb?status.svg)](https://godoc.org/github.com/planetfederal/orb)
 ======
 
 Package `orb` defines a set of types for working with 2d geo and planar/projected geometric data in Golang.

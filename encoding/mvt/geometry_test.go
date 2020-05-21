@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/encoding/mvt/vectortile"
+	"github.com/planetfederal/orb"
+	"github.com/planetfederal/orb/encoding/mvt/vectortile"
 )
 
 func TestGeometry_Point(t *testing.T) {

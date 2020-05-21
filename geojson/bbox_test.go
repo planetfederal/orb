@@ -3,7 +3,7 @@ package geojson
 import (
 	"testing"
 
-	"github.com/paulmach/orb"
+	"github.com/planetfederal/orb"
 )
 
 func TestBBoxValid(t *testing.T) {

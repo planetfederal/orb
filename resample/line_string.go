@@ -3,7 +3,7 @@
 package resample
 
 import (
-	"github.com/paulmach/orb"
+	"github.com/planetfederal/orb"
 )
 
 // Resample converts the line string into totalPoints-1 evenly spaced segments.

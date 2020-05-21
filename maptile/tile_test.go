@@ -5,8 +5,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/internal/mercator"
+	"github.com/planetfederal/orb"
+	"github.com/planetfederal/orb/internal/mercator"
 )
 
 func TestQuadKey(t *testing.T) {

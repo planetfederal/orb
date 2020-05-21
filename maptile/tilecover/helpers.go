@@ -4,8 +4,8 @@ package tilecover
 import (
 	"fmt"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/maptile"
+	"github.com/planetfederal/orb"
+	"github.com/planetfederal/orb/maptile"
 )
 
 // Geometry returns the covering set of tiles for the given geometry.

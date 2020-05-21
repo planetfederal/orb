@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"io"
 
-	"github.com/paulmach/orb"
+	"github.com/planetfederal/orb"
 )
 
 func readCollection(r io.Reader, bom binary.ByteOrder) (orb.Collection, error) {
