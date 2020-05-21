@@ -103,6 +103,11 @@ func UnmarshalGeometry(data []byte) (*Geometry, error) {
 
 // UnmarshalJSON will unmarshal the correct geometry from the json structure.
 func (g *Geometry) UnmarshalJSON(data []byte) error {
+	// if geojson fields with null values are being unmarshalled, the bytes for "null" may be passed to this method
+	if string(data) == "null" {
+		return nil
+	}
+
 	jg := &jsonGeometry{}
 	err := json.Unmarshal(data, &jg)
 	if err != nil {
