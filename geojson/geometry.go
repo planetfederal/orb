@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/paulmach/orb"
+	"github.com/planetfederal/orb"
 )
 
 // ErrInvalidGeometry will be returned if a the json of the geometry is invalid.

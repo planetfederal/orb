@@ -1,7 +1,7 @@
 package clip
 
 import (
-	"github.com/paulmach/orb"
+	"github.com/planetfederal/orb"
 )
 
 // Code based on https://github.com/mapbox/lineclip

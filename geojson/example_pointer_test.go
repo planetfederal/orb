@@ -3,10 +3,10 @@ package geojson_test
 import (
 	"fmt"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/geojson"
-	"github.com/paulmach/orb/planar"
-	"github.com/paulmach/orb/quadtree"
+	"github.com/planetfederal/orb"
+	"github.com/planetfederal/orb/geojson"
+	"github.com/planetfederal/orb/planar"
+	"github.com/planetfederal/orb/quadtree"
 )
 
 type CentroidPoint struct {

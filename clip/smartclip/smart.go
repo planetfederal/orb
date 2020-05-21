@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/clip"
+	"github.com/planetfederal/orb"
+	"github.com/planetfederal/orb/clip"
 )
 
 // Geometry will do a smart more involved clipping and wrapping of the geometry.

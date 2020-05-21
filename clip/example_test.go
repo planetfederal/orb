@@ -3,8 +3,8 @@ package clip_test
 import (
 	"fmt"
 
-	"github.com/paulmach/orb"
-	"github.com/paulmach/orb/clip"
+	"github.com/planetfederal/orb"
+	"github.com/planetfederal/orb/clip"
 )
 
 func ExampleGeometry() {

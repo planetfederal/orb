@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/paulmach/orb"
+	"github.com/planetfederal/orb"
 )
 
 // Area returns the area of the geometry on the earth.

@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/paulmach/orb/internal/mercator"
+	"github.com/planetfederal/orb/internal/mercator"
 )
 
 func TestDefineDeg2Rad(t *testing.T) {

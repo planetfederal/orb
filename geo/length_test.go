@@ -3,7 +3,7 @@ package geo
 import (
 	"testing"
 
-	"github.com/paulmach/orb"
+	"github.com/planetfederal/orb"
 )
 
 func TestLength(t *testing.T) {
