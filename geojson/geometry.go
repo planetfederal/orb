@@ -114,6 +114,10 @@ func (g *Geometry) UnmarshalJSON(data []byte) error {
 		return err
 	}
 
+	if jg == nil {
+		return nil
+	}
+
 	switch jg.Type {
 	case "Point":
 		p := orb.Point{}
